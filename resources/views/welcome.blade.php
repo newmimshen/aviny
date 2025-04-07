@@ -107,7 +107,7 @@
                                         />
                                     </svg>
                                 </a>
-                            </span>
+                            and smile</span>
                         </li>
                     </ul>
                     <ul class="flex gap-3 text-sm leading-normal">
