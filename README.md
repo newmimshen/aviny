@@ -5,6 +5,7 @@
 
 checkpoints:  
 - [x] install laravel & setup xampp
+- [x] install vue js
 - [ ] create first page(guest page), css & html
 - [ ] continue guest page developing
 - [ ] add some js
