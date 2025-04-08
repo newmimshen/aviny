@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Page Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @vite('resources/css/app.css')
 </head>
 <body>
+@include('components.admin-navbar')
 <div id="app"></div>
 @vite('resources/js/app.js')
-<h1>My First Heading</h1>
+<p class="text-3xl font-bold underline">My First Heading</p>
 <p>My first paragraph.</p>
 
 </body>
