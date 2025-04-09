@@ -6,8 +6,10 @@
     @vite('resources/css/app.css')
 </head>
 <body>
+<div id="guestnavbar">
+
+</div>
 @include('components.admin-navbar')
-<div id="app"></div>
 @vite('resources/js/app.js')
 <p class="text-3xl font-bold underline">My First Heading</p>
 <p>My first paragraph.</p>
