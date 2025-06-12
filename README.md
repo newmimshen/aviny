@@ -14,7 +14,7 @@ checkpoints:
 - [x] install laravel & setup xampp
 - [x] install vue js
 - [x] setup tailwind
-- [ ] create first page(guest page), css & html
+- [x] create first page(guest page), css & html
 - [ ] continue guest page developing
 - [ ] add some js
 - [ ] create database(mysql)
